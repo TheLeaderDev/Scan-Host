@@ -12,10 +12,10 @@ Since this project is unique to me and I’ve spent a lot of time on it, I won�
 <h1 align="left">Preview Images</h1>
 
 <p align="center">
-  <img src="https://github.com/TheLeaderDev/Practice-Projects/blob/main/Scan-Host/images/1.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Practice-Projects/blob/main/Scan-Host/images/2.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Practice-Projects/blob/main/Scan-Host/images/3.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Practice-Projects/blob/main/Scan-Host/images/4.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/1.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/2.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/3.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/4.png?raw=true" width="250">
 </p>
 
 <br>
@@ -44,10 +44,10 @@ Since this project is unique to me and I’ve spent a lot of time on it, I won�
 <h1 align="right">تصاویر پیش‌نمایش</h1>
 
 <p align="center">
-  <img src="https://github.com/TheLeaderDev/Practice-Projects/blob/main/Scan-Host/images/1.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Practice-Projects/blob/main/Scan-Host/images/2.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Practice-Projects/blob/main/Scan-Host/images/3.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Practice-Projects/blob/main/Scan-Host/images/4.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/1.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/2.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/3.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/4.png?raw=true" width="250">
 </p>
 <br>
 
