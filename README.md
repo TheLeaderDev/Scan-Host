@@ -12,10 +12,10 @@ Since this project is unique to me and Iâ€™ve spent a lot of time on it, I wonâ€
 <h1 align="left">Preview Images</h1>
 
 <p align="center">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/1.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/2.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/3.png?raw=true" width="250">
-  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/4.png?raw=true" width="250">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/1.png?raw=true" width="250" target="_blank">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/2.png?raw=true" width="250" target="_blank">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/3.png?raw=true" width="250" target="_blank">
+  <img src="https://github.com/TheLeaderDev/Scan-Host/blob/main/images/4.png?raw=true" width="250" target="_blank">
 </p>
 
 <br>
